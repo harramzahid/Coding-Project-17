@@ -1,5 +1,7 @@
 import React, { useState } from "react";
-import Gallery from "./Gallery";
+import Gallery from './components/Gallery';
+
+
 
 const App = () => {
   // Define global state if needed
@@ -11,7 +13,6 @@ const App = () => {
         <h1>Tour Comparison App</h1>
       </header>
       {/* Render Gallery Component */}
-      <Gallery />
     </div>
   );
 };
