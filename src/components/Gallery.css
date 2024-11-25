@@ -1,0 +1,23 @@
+/* General Body Styling */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f3f4ed; /* Soft pink background for the entire page */
+    color: #2f4f4f; /* Deep green for text */
+}
+
+/* Header */
+h1 {
+    text-align: center;
+    color: #ff69b4; /* Bright pink for header text */
+    margin: 20px;
+}
+
+/* Tour Card Styling */
+div {
+    display: flex;
+    flex-wrap: wrap;
+  font: Calibri;
+}
+
